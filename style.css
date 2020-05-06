@@ -1,7 +1,40 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    width: 600px;
+    margin: 0 auto;
+  }
+
 h1 {
-    color: darkgray;
+    color: white;
+    background: #006699;
+    padding: 30px;
+    border: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 500px;
+}
+
+h2 {
+    color: white;
+    background: #006699;
+    padding: 20px;
+    border: border: 1px solid #cccccc;
+    margin: 10px;
+    text-align: center;
+    width: 520px;
 }
 
 p {
-    color: darkslategray;
+    color: black;
+    padding: 20px;
+    border: 1px solid #cccccc;
+    width: 540px;
+}
+
+a {
+    border: 1px solid #cccccc;
+    text-align: center;
+    padding: 5px;
+    width: 300px;
+    cursor: pointer;
 }
